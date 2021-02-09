@@ -7,7 +7,8 @@
     </div>
     <div class="row">
       <div class="col-md-12">
-
+        <tabla-personas :personas="personas" />
+        <!-- nombre="datos"-->
       </div>
     </div>
   </div>
